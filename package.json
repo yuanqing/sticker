@@ -17,7 +17,6 @@
     "shared-event-listeners": "0.1.2"
   },
   "devDependencies": {
-    "babel-cli": "6.5.1",
     "babel-core": "6.5.1",
     "babel-eslint": "4.1.8",
     "babel-plugin-transform-object-rest-spread": "6.5.0",
